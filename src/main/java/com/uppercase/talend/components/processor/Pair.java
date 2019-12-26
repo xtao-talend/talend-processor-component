@@ -24,4 +24,7 @@ public class Pair<L,R> {
                 this.right.equals(pairo.getRight());
     }
 
+    public void leftToRight() {
+
+    }
 }
